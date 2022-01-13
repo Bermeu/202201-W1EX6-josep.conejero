@@ -2,3 +2,9 @@ p,
 li {
   display: inline;
 }
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
